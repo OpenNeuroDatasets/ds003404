@@ -29,4 +29,16 @@
 	"SoftwareVersion": "syngo MR B19",
 	"MRAcquisitionType": "2D",
 	"InstitutionName": "RUBIC",
-	"InstitutionA
+	"InstitutionAddress": "Univeristy Ave. 197,Newark,North East,US,07102-1814",
+	"DeviceSerialNumber": "35450",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"ScanOptions": "FS",
+	"SequenceName": "epse2d1_88",
+	"IntendedFor": [
+		"func\/sub-C33_task-viscomp_run-1_bold.nii.gz",
+		"func\/sub-C33_task-viscomp_run-2_bold.nii.gz",
+		"func\/sub-C33_task-viscomp_run-3_bold.nii.gz",
+		"func\/sub-C33_task-viscomp_run-4_bold.nii.gz"
+	]
+}
