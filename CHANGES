@@ -1,3 +1,5 @@
+1.0.3 2024-05-15
+  - The onset times have been updated to account for the fact that the last TR extended slightly longer than the total duration of a run. These updated onset times reflect those that were used in the published article.
 1.0.2 2024-03-06
   - The journal article reference has been updated.
 1.0.1 2022-10-03
