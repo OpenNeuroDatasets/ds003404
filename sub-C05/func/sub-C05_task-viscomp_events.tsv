@@ -1,4 +1,4 @@
-onset_new	duration	shapeType	diffType	instrucType
+onset	duration	shapeType	diffType	instrucType
 16	5	illus	n/a	instr
 21	0.25	illus	hard	task
 24	0.25	illus	easy	task
