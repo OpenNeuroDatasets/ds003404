@@ -1,4 +1,0 @@
-{
-  "TaskName": "restingstatematrixpersubject",
-  "TaskDescription": "This is a 360x360 array of regressors for each of 19 subjects for each pairing of the 360 parcels in the Glasser et al. parcellation. Therefore, this Matlab matrix provides a 360 x 360 x 19 array of regression coefficients.",
-}
