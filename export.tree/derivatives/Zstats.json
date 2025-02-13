@@ -1,4 +1,0 @@
-{
-  "TaskName": "univariateresults",
-  "TaskDescription": "This cifti dense time series file provides parcel-wise Zstat values for all 360 cortical parcels.  The Zstat corresponds to the illusory - fragmented activation difference for all 20 subjects with warm colors indicating more activation in the illusory condition.  The first map is unthresholded and the second map shows only parcels that survive FDR correction (with the correction being applied separately for the regions of interest).",
-}
