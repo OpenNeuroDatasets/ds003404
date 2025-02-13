@@ -11,3 +11,7 @@ MRI Files included are:
 A) Skull-stripped and defaced T1w and T2w structurals with a resolution of 0.8mm isotropic.
 B) 5 task epi files including a 10 minute rest scan - (281vol x 4, 765vol)
 C) field maps (fmap) - AP/PA field map pair for the task scans and another pair for the rest scan
+
+Resting-state data were collected with an eyes open protocol. Note that one subject, sub-C23, did not complete a resting-state scan. Note also that for the structurals, the first reconstruction (rec-1) was without prescan normalize and the second reconstruction (rec-2) was with prescan normalize. Also, the scan time stamp year has been altered for anonymization.
+
+
