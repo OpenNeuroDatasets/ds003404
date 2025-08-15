@@ -1,0 +1,4 @@
+1.0.6 2025-08-15
+  - 1.0.6 2025-08-15 - Fixed an issue with BIDS anonymization for structurals
+1.0.5 2025-02-13
+  - - Fixed a BIDS formatting issue.
